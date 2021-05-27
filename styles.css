@@ -1,15 +1,65 @@
+body{
+    background-color:hsl(3,50%,58%);
+    
+}
+form{
+    background-color: rgb(209, 203, 202);
+    height:300px;
+    width:500px;
+    margin-top:200px;
+    margin-left:500px;
+    box-shadow: 10px 10px grey;
+    
+
+}
+#box{
+    width:310px;
+    height:50px;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+    padding-left:73px;
+    padding-right:30px;
+    padding-top:10px;
+}
+
 .uname{
-    display:block;
+    
+    padding-left:43px;
+    padding-right:43px;
+    
 }
 .psw{
-    display:block;
+    padding-top:30px;
+    padding-left:43px;
+    padding-right:43px;
+    padding-bottom:30px;
 }
 
-body{
+button{
+    background-color: rgb(110, 217, 236);
+    margin-left:117px;
+    text-align:center;
+    height:45px;
+    width:150px;
+    border:none;
 
-background-color:hsl(10,50%,50%);
 }
 
-form{
-    background-color: rgb(129, 119, 119);
+
+
+
+.big-box{
+    width: 500px;
+    background-color:rgb(114, 110, 109);
+    
+
+}
+
+.container{
+    
+    width:388px;
+    margin:auto;
+    
+    
 }
